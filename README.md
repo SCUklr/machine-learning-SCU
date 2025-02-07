@@ -1,2 +1,2 @@
 # machine-learning-SCU
-SCU大四上机器学习课程相关源码
+SCU软件学院机器学习课程相关源码
